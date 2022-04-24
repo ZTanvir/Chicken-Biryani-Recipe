@@ -1,0 +1,22 @@
+html{
+    background-color:antiquewhite;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    text-align: center;
+    background-color:crimson;
+    color: white;
+}
+h2{
+    color:chocolate;
+}
+h4{
+    color: brown;
+    font-size: large;
+}
+
+ul{
+    background-color:darkslateblue;
+    color: wheat;
+}

@@ -1,14 +1,14 @@
-*{
-    font-family: 'Indie Flower', sans-serif,Helvetica;
-    background-color:snow;
+* {
+    font-family: "Indie Flower", sans-serif, Helvetica;
+    background-color: snow;
 }
-h1{
-    color:darksalmon;
+h1 {
+    color: darksalmon;
     text-align: center;
 }
-h2{
+h2 {
     color: crimson;
 }
-a{
+a {
     font-size: 20px;
 }
